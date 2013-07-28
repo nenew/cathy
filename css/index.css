@@ -1,0 +1,146 @@
+html,body{
+background-color:#F5F5F5;
+height:100%;
+}
+.en{
+	display:none;
+}
+.cn{
+	display:none;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #0088CC;
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+.carousel-inner {
+    height:400px;
+    width: 100%;
+}
+.carousel-inner img{
+    height:400px;
+    width: 100%;
+}
+.content{
+	min-height:100%;
+	margin-bottom:-120px;
+	padding-bottom:100px;
+}
+.heightfix{
+	height:540px;
+}
+.heightfixx{
+	height:330px;
+}
+.header{
+	height:130px;
+	background-color:#F5F5F5;
+
+}
+.title{
+	margin-top:30px;
+	background-image: url(../img/llogo.png);
+	background-repeat: no-repeat;
+	background-size:50px 50px;
+	padding-left:55px;
+}
+.language-button{
+	margin-top:-65px;
+}
+.menus{
+	font-size:20px;	
+}
+.nav-fix{
+	padding-bottom:5px;
+	border-bottom-width: 2px;
+	border-bottom-color:#333333;
+	border-bottom-style:solid;
+	}
+.slideshow{
+	margin-top:4px;
+}
+.slideshows{
+	margin-top:0px;
+	background-color:#F5F5F5;
+}
+.main{
+	background-color:#F5F5F5;
+	padding-bottom:20px;
+}
+.sub{
+    color: inherit;
+    font-family: inherit;
+    font-weight: bold;
+    line-height: 20px;
+    margin: 10px 0;
+	font-size:17.5px;
+	margin-top:10px;
+	margin-right:0px;
+	margin-bottom:10px;
+	margin-left:0px;
+	text-rendering:optimizelegibility;
+}
+.borderfix{
+	border-right:1px solid #D5D5D5;
+}
+.telephone{
+	background: url("../img/phone.png") no-repeat scroll 0 0 / 42px 42px transparent;
+    border: 0 none;
+    cursor: pointer;
+    height: 42px;
+    opacity: 0.8;
+    width: 42px;
+	margin-right:15px;
+}
+.telephone:hover{
+	background: url("../img/phone.png") no-repeat scroll 0 0 / 42px 42px transparent;
+    border: 0 none;
+    cursor: pointer;
+    height: 42px;
+    opacity: 1;
+    width: 42px;
+	margin-right:15px;
+
+}
+.mail{
+	background: url("../img/mail.png") no-repeat scroll 0 0 / 42px 42px transparent;
+    border: 0 none;
+    cursor: pointer;
+    height: 42px;
+    opacity: 0.8;
+    width: 42px;
+	margin-right:15px;
+}
+.mail:hover{
+	background: url("../img/mail.png") no-repeat scroll 0 0 / 42px 42px transparent;
+    border: 0 none;
+    cursor: pointer;
+    height: 42px;
+    opacity: 1;
+    width: 42px;
+	margin-right:15px;	
+}
+.qqcontact{
+	margin-bottom:7px;
+	margin-top:-5px;
+}
+.footer{
+	height:120px;
+	background-color: #F5F5F5;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+.copyright{
+	text-align:center;
+	margin-top:20px;
+	font-size:18px;	
+	color: #777777;
+}
+.address{
+	text-align:center;
+	margin-top:15px;
+	font-size:18px;	
+	color: #777777;
+}
+.hrfix{ height:1px;border:none;border-top:1px dashed #D5D5D5;}
